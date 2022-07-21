@@ -1,8 +1,8 @@
 import React, { CSSProperties } from 'react';
 import ListItem from '../TodoListItem/ListItem';
-import styles from './todoList.module.css';
+import styles from '../../styles/todoList.module.css';
 import BounceLoader from 'react-spinners/BounceLoader';
-import ClipLoader from 'react-spinners/ClipLoader';
+// import ClipLoader from 'react-spinners/ClipLoader';
 
 // const override: CSSProperties = {
 // 	display: 'block',

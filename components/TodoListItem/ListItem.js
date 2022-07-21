@@ -1,6 +1,6 @@
 import React from 'react';
 import CrossIcon from '../../icons/cross';
-import styles from './listItem.module.css';
+import styles from '../../styles/listItem.module.css';
 
 const ListItem = (props) => {
 	const deleteHandler = (id) => {

@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import TodoForm from '../components/TodoForm/TodoForm';
 import TodoList from '../components/TodoList/TodoList';
-import Card from '../components/UI/Card';
+import Card from '../components/UI/Card/Card';
 import styles from '../styles/Home.module.css';
 import TodoCard from '../components/UI/TodoCard/TodoCard';
 import axios from 'axios';
