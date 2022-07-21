@@ -1,7 +1,7 @@
 ## API used for the project
 
-I used the jsonplaceholder todos
-api[https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos)
+I used the jsonplaceholder todos api
+[https://jsonplaceholder.typicode.com/todos](https://jsonplaceholder.typicode.com/todos)
 
 ## Getting Started
 
