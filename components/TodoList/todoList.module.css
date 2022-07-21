@@ -1,0 +1,36 @@
+.todoList {
+	background-color: rgb(31 41 55);
+	list-style: none;
+	padding: 0 1em;
+	min-height: 200px;
+}
+
+.content {
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+}
+
+.loader {
+	display: flex;
+	justify-content: center;
+}
+
+@media only screen and (min-width: 500px) {
+	.todoList {
+		padding: 0 2.5em;
+	}
+
+	.content {
+		font-size: 20px;
+	}
+}
+@media only screen and (min-width: 1024px) {
+	.todoList {
+		padding: 0px;
+	}
+
+	.content {
+		font-size: 20px;
+	}
+}

@@ -1,0 +1,9 @@
+.card {
+	max-width: 700px;
+	margin: 0 auto;
+	margin-top: -4em;
+	overflow: hidden;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	background-color: rgb(31 41 55);
+}
